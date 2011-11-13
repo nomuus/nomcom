@@ -100,7 +100,7 @@ def _dir_exists(directory):
 def dir_exists(dir):
     return _dir_exists(dir)
 
-def directory_exists(dir)
+def directory_exists(dir):
     return _dir_exists(dir)
 
 def file_exists(file):
